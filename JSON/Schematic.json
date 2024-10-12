@@ -5,7 +5,7 @@
 		"title": "Notification: New Recipes Unlocked",
 		"description": "Schematic: {Schematic}",
 		"fields": [
-			{"name": "Recipes Unlocked:", "value": "{Recipes}", "inline": true},
+			{"name": "Recipes Unlocked:", "value": "{Recipes}", "inline": true}
 		],
 		"footer": {"text": "{Flavor}"}
 	}]
